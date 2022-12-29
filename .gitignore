@@ -1,0 +1,13 @@
+"# scomp_project" 
+
+venv/
+facebook/__pycache__/
+facebook/Data/
+facebook/credentials.txt
+facebook/input.txt
+facebook/out.txt
+instagram/__pycache__/
+instagram/instagram_data/
+instagram/credentials.txt
+instagram/input.txt
+instagram/out.txt
